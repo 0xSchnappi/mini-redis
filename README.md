@@ -9,5 +9,5 @@ cargo run --example hello-redis
 ## run mini-redis server
 
 ```shell
-cargo run
+cargo run --bin server
 ```
