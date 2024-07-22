@@ -11,3 +11,15 @@ cargo run --example hello-redis
 ```shell
 cargo run --bin server
 ```
+
+## run echo-server-copy
+
+```shell
+cargo run --bin echo-server-copy
+```
+
+## run echo-client-copy
+
+```shell
+cargo run --bin echo-client-copy
+```
